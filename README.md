@@ -82,6 +82,12 @@ Install this project with:
   cd hello-rails-react
   bundle install
 ```
+Run the following command to run the project:
+
+```bash
+  npm install
+  bin/dev
+```
 
 it will install the required gemfile for running the project
 
@@ -91,7 +97,7 @@ it will install the required gemfile for running the project
 
 ## 👥 Author <a name="author"></a>
 
-👤 **Meryem Sanem Küçükbayram**
+👤 **Yusuf Sholotan**
 
 - GitHub: [@Github](https://github.com/yin-ka)
 - LinkedIn: [@LinkedIn](https://www.linkedin.com/in/yusuf-sholotan/)
